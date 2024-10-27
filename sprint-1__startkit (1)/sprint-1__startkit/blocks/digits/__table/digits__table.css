@@ -1,0 +1,7 @@
+/* Стили таблицы */
+.digits__table {
+    width: 1100px;
+    border-spacing: 20px 60px;
+    /* Расстояния между ячейками по горизонтали и вертикали */
+    border-collapse: separate;
+}

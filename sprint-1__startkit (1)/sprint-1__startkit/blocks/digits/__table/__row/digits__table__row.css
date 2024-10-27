@@ -1,0 +1,5 @@
+/* Стили строки таблицы */
+.digits__table__row {
+    display: flex;
+    justify-content: space-between;
+}
